@@ -1,0 +1,11 @@
+[project]
+name = "lupa-album-studio"
+version = "0.1.0"
+description = "Local tooling for curating photo albums before uploading to Lupa"
+requires-python = ">=3.10"
+dependencies = [
+  "pillow",
+  "pillow-heif",
+  "geopy",
+  "exifread",
+]

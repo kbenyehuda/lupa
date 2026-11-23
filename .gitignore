@@ -1,0 +1,5 @@
+albums/*/raw/
+albums/*/.work/
+.venv/
+__pycache__/
+*.pyc
